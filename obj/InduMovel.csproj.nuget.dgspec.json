@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev-ata\\cs\\InduMovel\\InduMovel.csproj": {}
+    "c:\\DEV\\cs\\InduMovel\\InduMovel.csproj": {}
   },
   "projects": {
-    "C:\\dev-ata\\cs\\InduMovel\\InduMovel.csproj": {
+    "c:\\DEV\\cs\\InduMovel\\InduMovel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev-ata\\cs\\InduMovel\\InduMovel.csproj",
+        "projectUniqueName": "c:\\DEV\\cs\\InduMovel\\InduMovel.csproj",
         "projectName": "InduMovel",
-        "projectPath": "C:\\dev-ata\\cs\\InduMovel\\InduMovel.csproj",
-        "packagesPath": "C:\\Users\\sn1081494\\.nuget\\packages\\",
-        "outputPath": "C:\\dev-ata\\cs\\InduMovel\\obj\\",
+        "projectPath": "c:\\DEV\\cs\\InduMovel\\InduMovel.csproj",
+        "packagesPath": "C:\\Users\\Aluno Dev\\.nuget\\packages\\",
+        "outputPath": "c:\\DEV\\cs\\InduMovel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sn1081494\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Aluno Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
